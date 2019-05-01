@@ -1,1 +1,3 @@
-# Traffic_Simulator
+# Traffic-Simulator
+
+Traffic simulator
